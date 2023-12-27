@@ -19,10 +19,7 @@
 <body>
 
   <?php
-require_once($_SERVER['DOCUMENT_ROOT']."/brief-9/index.php");
-require_once($_SERVER['DOCUMENT_ROOT']."/brief-9/app/models/classClient.php");
-  require_once($_SERVER['DOCUMENT_ROOT']."/brief-9/app/services/client/clientServecis.php");
-  require_once($_SERVER['DOCUMENT_ROOT']."/brief-9/app/services/client/clientIntface.php");
+
 
 
 
